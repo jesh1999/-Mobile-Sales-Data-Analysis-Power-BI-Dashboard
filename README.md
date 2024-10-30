@@ -14,7 +14,7 @@ Provide actionable insights to help optimize marketing strategies and inventory 
 
 
 
-**🗂️ Data Source and Structure******
+**🗂️ Data Source and Structure**
 
 1. Mobile Sales Data (Excel)
 File Name: Mobile Sales Data.xlsx
@@ -54,6 +54,7 @@ Value of Insights
 Identify High-Value Products: Focus on mobile models generating the most revenue and highest sales volume.
 Regional Focus: Allocate resources efficiently by targeting high-sales regions.
 Customer Targeting: Tailor marketing strategies based on customer demographics and purchasing behavior.
+
 **💻 How to Use the Dashboard**
 Step-by-Step Guide
 Download the Files
@@ -76,9 +77,12 @@ Analysis & Decision-Making
 Utilize insights on top-performing products to guide inventory decisions.
 Leverage regional sales data for localized marketing efforts.
 Identify potential upsell opportunities by targeting popular customer demographics.
+
 **📂 File Structure**
+
 Mobile Sales Data.xlsx: The Excel data source with detailed sales and customer information.
 MS_Dashboard -.pbix: Power BI dashboard for an interactive view of the data insights.
+
 **🏆 Project Outcomes**
 This dashboard is intended to serve as a valuable resource for retail teams, marketers, and data analysts by providing a comprehensive view of mobile sales performance. It is designed to help users make informed decisions that can lead to increased revenue, optimized marketing strategies, and improved customer satisfaction.
 
