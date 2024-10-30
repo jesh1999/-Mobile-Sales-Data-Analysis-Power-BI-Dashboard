@@ -1,4 +1,4 @@
-# -Mobile-Sales-Data-Analysis-Power-BI-Dashboard
+# Mobile-Sales-Data-Analysis-Power-BI-Dashboard
 This project uses Power BI to analyze mobile sales data, helping retail teams understand sales trends, customer demographics, and product performance by region. The interactive dashboard makes it easy to explore key insights and drive informed decisions.
 
 
@@ -11,17 +11,24 @@ The primary objectives of this project are to:
 Analyze mobile sales data to identify patterns and trends.
 Visualize the most profitable products, regions, and customer segments.
 Provide actionable insights to help optimize marketing strategies and inventory management.
+
+
+
 **🗂️ Data Source and Structure******
+
 1. Mobile Sales Data (Excel)
-File Name: Day - 30 - Mobile Sales Data.xlsx
+File Name: Mobile Sales Data.xlsx
 Description: This file contains comprehensive sales data, including details on products, sales volume, revenue, and customer demographics. Here’s a closer look at the columns within this dataset:
 Product Information: Mobile model names, specifications, and categories.
 Sales Data: Units sold, revenue generated, and price points.
 Location Data: Regions and specific locations where sales took place.
 Customer Details: Information on customer demographics such as age group, buying preferences, and repeat purchases.
+
 **2. Power BI Dashboard (Interactive Visualization)**
 File Name: Mobile Sales_Dashboard -.pbix
+
 **Description:** This Power BI file houses the dashboard built from the Excel data. It includes various charts, tables, and KPIs that allow for real-time filtering and detailed analysis.
+
 **📊 Dashboard Insights**
 **Key Components of the Dashboard**
 **Sales Overview**
